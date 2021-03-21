@@ -10,16 +10,16 @@ callbackFunctionExercise - JavaScript File
 
 II. Concept
 ----------
-The word document defines callback functions and how they are used in JavaScript. Also covered are more commands for manipulating an Array.
+The word document defines callback functions and how they are used in JavaScript and provides some example code. Also covered are more commands for manipulating an Array such as array.forEach, array.Filter and array.sort.
 
-The arrayManipulationExercise JS file allows you to manipulate arrays in JS using the array.slice and array.splice commands.  You can practice this by using the developer tools in your browser.
+The callbackFunctionExercise JavaScript file allows you to practice the syntax for callback functions using the developer tools in your browser.
 
 The fatArrowFunctionExample JavaScript file allows you to see an alternative method to creating functions in JS using Fat Arrows. You can practice this by using the developer tools in your browser.
 
 
 III. Future Improvements
 ----------
-Expansion of the arrayManipulationExercise to include other commands such as array.push and array.pop.
+Expansion of the callbackFunctionExercise to include other types and usages of these types of functions.
 
 IV.  License
 ----------

@@ -5,9 +5,7 @@ I. File list
 ------------
 Callback Functions and Arrays - Microsoft Word Document
 
-arrayManipulationExercise - JavaScript File
-
-fatArrowFunctionExamples - JavaScript File
+callbackFunctionExercise - JavaScript File
 
 
 II. Concept

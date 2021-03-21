@@ -9,6 +9,8 @@ callbackFunctionExercise - JavaScript File
 
 wordCountExercise - HTML File
 
+sortingNumbersExercise - HTML File
+
 
 II. Concept
 ----------
@@ -17,6 +19,8 @@ The word document defines callback functions and how they are used in JavaScript
 The callbackFunctionExercise JavaScript file allows you to practice the syntax for callback functions using the developer tools in your browser.
 
 The wordCountExercise HTML file allows you to count the words in a paragraph (as a string) and also count each unique word and display those results in the developer tools using the browsers console. You can manipulate the text of the paragraph and add in your own text by modifying the variable let text = " ".  Simply drag and drop the HTML file into an empty browser tab and check the console for the results of the total word count and the unique word count of your string.
+
+The sortingNumbersExercise HTML File takes an array of numbers and provides the code to sort those numbers and output the results in the console provided by the developer tools in your browser.
 
 
 III. Future Improvements
